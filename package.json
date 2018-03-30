@@ -1,23 +1,23 @@
 {
-	"name": "NIC-ChatBot-Front",
-	"version": "1.0.0",
-	"scripts": {
-		"start": "node app.js"
-	},
-	"dependencies": {
-		"express": "4.13.x",
-		"body-parser": "~1.14.1",
-		"ejs": "*",
-		"errorhandler": "~1.4.1",
-		"request": "^2.67.0"
-	},
-	"repository": {
+  "name": "NIC-ChatBot-Front",
+  "version": "2.0.0",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "express": "4.13.x",
+    "body-parser": "~1.14.1",
+    "ejs": "*",
+    "errorhandler": "~1.4.1",
+    "request": "^2.67.0"
+  },
+  "repository": {
     "type": "git",
     "url": "https://git.ng.bluemix.net/Takuya_Yamaguchi/WatsonPocFront.git"
   },
   "author": "Nippon Information and Communication Corporation",
   "license": "Apache-2.0",
-	"engines": {
-		"node": ">=6.11.1"
-	}
+  "engines": {
+    "node": ">=6.11.1"
+  }
 }
